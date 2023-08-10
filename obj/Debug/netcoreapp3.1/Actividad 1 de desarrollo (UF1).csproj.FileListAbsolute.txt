@@ -1,0 +1,14 @@
+C:\Users\zafio\source\repos\Actividad 1 de desarrollo (UF1)\bin\Debug\netcoreapp3.1\Actividad 1 de desarrollo (UF1).exe
+C:\Users\zafio\source\repos\Actividad 1 de desarrollo (UF1)\bin\Debug\netcoreapp3.1\Actividad 1 de desarrollo (UF1).deps.json
+C:\Users\zafio\source\repos\Actividad 1 de desarrollo (UF1)\bin\Debug\netcoreapp3.1\Actividad 1 de desarrollo (UF1).runtimeconfig.json
+C:\Users\zafio\source\repos\Actividad 1 de desarrollo (UF1)\bin\Debug\netcoreapp3.1\Actividad 1 de desarrollo (UF1).runtimeconfig.dev.json
+C:\Users\zafio\source\repos\Actividad 1 de desarrollo (UF1)\bin\Debug\netcoreapp3.1\Actividad 1 de desarrollo (UF1).dll
+C:\Users\zafio\source\repos\Actividad 1 de desarrollo (UF1)\bin\Debug\netcoreapp3.1\Actividad 1 de desarrollo (UF1).pdb
+C:\Users\zafio\source\repos\Actividad 1 de desarrollo (UF1)\obj\Debug\netcoreapp3.1\Actividad 1 de desarrollo (UF1).csproj.AssemblyReference.cache
+C:\Users\zafio\source\repos\Actividad 1 de desarrollo (UF1)\obj\Debug\netcoreapp3.1\Actividad 1 de desarrollo (UF1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafio\source\repos\Actividad 1 de desarrollo (UF1)\obj\Debug\netcoreapp3.1\Actividad 1 de desarrollo (UF1).AssemblyInfoInputs.cache
+C:\Users\zafio\source\repos\Actividad 1 de desarrollo (UF1)\obj\Debug\netcoreapp3.1\Actividad 1 de desarrollo (UF1).AssemblyInfo.cs
+C:\Users\zafio\source\repos\Actividad 1 de desarrollo (UF1)\obj\Debug\netcoreapp3.1\Actividad 1 de desarrollo (UF1).csproj.CoreCompileInputs.cache
+C:\Users\zafio\source\repos\Actividad 1 de desarrollo (UF1)\obj\Debug\netcoreapp3.1\Actividad 1 de desarrollo (UF1).dll
+C:\Users\zafio\source\repos\Actividad 1 de desarrollo (UF1)\obj\Debug\netcoreapp3.1\Actividad 1 de desarrollo (UF1).pdb
+C:\Users\zafio\source\repos\Actividad 1 de desarrollo (UF1)\obj\Debug\netcoreapp3.1\Actividad 1 de desarrollo (UF1).genruntimeconfig.cache
