@@ -9,13 +9,11 @@ El proyecto en si, son 4 ejercicos en base al String "ilerna online programacion
 
 Los ejecicios son los siguientes:
 
-* 1. Imprimir por consola la variable en mayúsculas sin espacios
+	* Imprimir por consola la variable en mayúsculas sin espacios
+	* Imprimir por consola el total de consonantes de la variable
+	* Imprimir por consola el total de números que tiene la variable
+	* Imprimir por consola solo las consonantes y en el orden que las va encontrando
 
-* 2. Imprimir por consola el total de consonantes de la variable
-
-* 3. Imprimir por consola el total de números que tiene la variable
-
-* 4. Imprimir por consola solo las consonantes y en el orden que las va encontrando
 
 </br>
 
