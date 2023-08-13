@@ -1,19 +1,20 @@
 # [![PAC_Desarrollo_Prog_A](https://github.com/Zafion/3_Raya_Por_Consola/blob/main/recursos/C%23_36.png)](https://github.com/Zafion/PAC_Desarrollo_Prog_A) PAC_Desarrollo_Prog_A
 
-Desarrollado con C# usando el IDE Visual Studio 2019.
+Desarrollado con C# utilizando el IDE Visual Studio 2019.
 
-Trabajo de desarrollo realizado durante la formación del primer semestre del Ciclo Superior De Desarrollo De Aplicaciones Multiplataforma.
+Trabajo de desarrollo realizado durante el primer semestre del Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma.
 Corresponde a la asignatura de Programación.
 
-El proyecto en si, son 4 ejercicos en base al String "ilerna online programacion a 2º semestre 2022"
+El proyecto en sí consiste en 4 ejercicios basados en el string "ilerna online programación a 2º semestre 2022".
 
-Los ejecicios son los siguientes:
+Los ejercicios son los siguientes:
 
-	* Imprimir por consola la variable en mayúsculas sin espacios
-	* Imprimir por consola el total de consonantes de la variable
-	* Imprimir por consola el total de números que tiene la variable
-	* Imprimir por consola solo las consonantes y en el orden que las va encontrando
+	* Imprimir por consola la variable en mayúsculas sin espacios.
+	* Imprimir por consola el total de consonantes de la variable.
+	* Imprimir por consola el total de números que tiene la variable.
+	* Imprimir por consola solo las consonantes y en el orden que las va encontrando.
 
+Las instrucciones detalladas del ejercicio se pueden consultar en el archivo: https://github.com/Zafion/PAC_Desarrollo_Prog_A/blob/main/2s2222_PAC_Desarrollo_M03A.pdf
 
 </br>
 
